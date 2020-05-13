@@ -1,0 +1,29 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "defines": [
+                "USBCON"
+            ],
+            "includePath": [
+                "/home/ttosi/.arduino15/packages/esp8266/tools/**",
+                "/home/ttosi/.arduino15/packages/esp8266/hardware/esp8266/2.7.0/**",
+                "${workspaceRoot}",
+                "/home/ttosi/Downloads/arduino-1.8.12/hardware/arduino/avr/**",
+                "/home/ttosi/Downloads/arduino-1.8.12/tools/**",
+                "/home/ttosi/Downloads/arduino-1.8.12/hardware/tools/**",
+                "/home/ttosi/Downloads/arduino-1.8.12/libraries/**",
+                "/home/ttosi/Arduino/hardware/tools/**",
+                "/home/ttosi/Arduino/libraries/**"
+            ],
+            "forcedInclude": [
+                "/home/ttosi/Downloads/arduino-1.8.12/hardware/arduino/avr/cores/arduino/Arduino.h"
+            ],
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c11",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}

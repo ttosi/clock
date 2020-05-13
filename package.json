@@ -1,0 +1,11 @@
+{
+  "name": "da-bomb-clock",
+  "version": "1.0.0",
+  "description": "A wall clock that resembles a bomb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tony S. Tosi",
+  "license": "ISC"
+}

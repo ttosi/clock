@@ -1,0 +1,102 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "/home/ttosi/Downloads/arduino-1.8.12/hardware/arduino/avr/cores/arduino"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "/home/ttosi/Downloads/arduino-1.8.12/hardware/arduino/avr/variants/eightanaloginputs"
+  },
+  {
+    "Sourcefile": "/home/ttosi/Projects/seven-segment/build/sketch/app.ino.cpp",
+    "Include": "Wire.h",
+    "Includepath": "/home/ttosi/Downloads/arduino-1.8.12/hardware/arduino/avr/libraries/Wire/src"
+  },
+  {
+    "Sourcefile": "/home/ttosi/Projects/seven-segment/build/sketch/app.ino.cpp",
+    "Include": "Thread.h",
+    "Includepath": "/home/ttosi/Arduino/libraries/ArduinoThread"
+  },
+  {
+    "Sourcefile": "/home/ttosi/Projects/seven-segment/build/sketch/app.ino.cpp",
+    "Include": "Adafruit_GFX.h",
+    "Includepath": "/home/ttosi/Arduino/libraries/Adafruit_GFX_Library"
+  },
+  {
+    "Sourcefile": "/home/ttosi/Projects/seven-segment/build/sketch/app.ino.cpp",
+    "Include": "Adafruit_LEDBackpack.h",
+    "Includepath": "/home/ttosi/Arduino/libraries/Adafruit_LED_Backpack_Library"
+  },
+  {
+    "Sourcefile": "/home/ttosi/Projects/seven-segment/build/sketch/app.ino.cpp",
+    "Include": "Adafruit_NeoPixel.h",
+    "Includepath": "/home/ttosi/Arduino/libraries/Adafruit_NeoPixel"
+  },
+  {
+    "Sourcefile": "/home/ttosi/Projects/seven-segment/build/sketch/app.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/ttosi/Downloads/arduino-1.8.12/hardware/arduino/avr/libraries/Wire/src/Wire.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/ttosi/Downloads/arduino-1.8.12/hardware/arduino/avr/libraries/Wire/src/utility/twi.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/ttosi/Arduino/libraries/ArduinoThread/Thread.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/ttosi/Arduino/libraries/ArduinoThread/ThreadController.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/ttosi/Arduino/libraries/Adafruit_GFX_Library/Adafruit_GFX.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/ttosi/Arduino/libraries/Adafruit_GFX_Library/Adafruit_SPITFT.cpp",
+    "Include": "SPI.h",
+    "Includepath": "/home/ttosi/Downloads/arduino-1.8.12/hardware/arduino/avr/libraries/SPI/src"
+  },
+  {
+    "Sourcefile": "/home/ttosi/Arduino/libraries/Adafruit_GFX_Library/Adafruit_SPITFT.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/ttosi/Arduino/libraries/Adafruit_GFX_Library/glcdfont.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/ttosi/Arduino/libraries/Adafruit_LED_Backpack_Library/Adafruit_LEDBackpack.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/ttosi/Arduino/libraries/Adafruit_NeoPixel/Adafruit_NeoPixel.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/ttosi/Arduino/libraries/Adafruit_NeoPixel/esp8266.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/ttosi/Downloads/arduino-1.8.12/hardware/arduino/avr/libraries/SPI/src/SPI.cpp",
+    "Include": "",
+    "Includepath": null
+  }
+]
